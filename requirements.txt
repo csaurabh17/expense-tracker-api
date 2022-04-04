@@ -1,1 +1,2 @@
 click==8.0.2
+djangorestframework==3.13.1
